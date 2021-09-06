@@ -1,0 +1,8 @@
+site_name: Training
+nav:
+    - Home: index.md    # La página de inicio.
+    - Tutorial mkdocs: mkdocs.md   # Tutorial sobre mkdocs.
+    - Editores de texto: editor.md   # Sobre editores de texto recomendados.
+    - Tutorial markdown: markdown.md # Tutorial sobre markdown.
+    - Notas git: git.md      # Notas sobre Git.
+    - Acerca del curso: about.md    # Informacion acerca del curso.
